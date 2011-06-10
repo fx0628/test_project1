@@ -7,7 +7,9 @@
 <xsl:namespace-alias stylesheet-prefix="xslt" result-prefix="xsl"/>
 <xsl:output method="xml" omit-xml-declaration="yes" indent="yes" encoding="UTF-8"/>
 
+<<<<<<< HEAD
 <%-- Retrieve the core tag expansion templates aaaag bbbbb ccccc dddd eeee --%>
+>>>>>>> branch1
 <dr:url contentElement="true" rscName="CoreTagExpansionXSLTemplates"/>
 
 <!-- page: templates111 -->
